@@ -15,10 +15,9 @@ Language:
 <select name="language">
 <option>English</option>
 <option>Spanish</option>
-
+<option>Singlish</option>
 </select>
-   <input type="submit" value="Call Servlet"/>
-
+<input type="submit" value="Call Servlet"/>
 </form>
 </body>
 </html>
